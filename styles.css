@@ -1,0 +1,28 @@
+:root{--green: #38E54D;
+      --blue: #C1EFFF;
+      --pink: #FFEEEE;
+      --navy: #2C2891;
+      --junglegreen: #125C13;
+      --orange: #FFD8A9;
+}
+/* Home page body */
+.body{
+    background-color: var(--orange)
+}
+/* Home page general styling */
+.pages{
+    margin: 0px;
+    list-style-type: none;
+    justify-content: flex-end;
+    display: flex;
+    gap: 20px;
+
+}
+.img{
+transition-delay: 2s;
+transform: rotateY(90deg);
+position: sticky;
+translate: 200px;
+}
+
+
