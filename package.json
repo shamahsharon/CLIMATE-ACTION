@@ -1,0 +1,22 @@
+{
+  "name": "climate-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamahsharon/CLIMATE-ACTION.git"
+  },
+  "author": "Sharon \tShamah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamahsharon/CLIMATE-ACTION/issues"
+  },
+  "homepage": "https://github.com/shamahsharon/CLIMATE-ACTION#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
